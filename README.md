@@ -2,6 +2,9 @@
 Using Arduino IDE
 
 This is CMPE 286 course work project.
+<p align="center">
+ <img src = "https://user-images.githubusercontent.com/87613567/232347183-57a2839a-0a8a-4afd-9c34-cb6dd1200df5.png" alt = "Tools" height="290" width ="400" />
+</p>
 
 ### Steps to run the project:
 1. Download Arduino IDE on your computer. I found Version 1.8.11 working fine.
